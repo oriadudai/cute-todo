@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">המשימות שלי</string>
+    <string name="hello">היי אוריה 🌷</string>
+    <string name="input_hint">מה צריך לעשות?</string>
+    <string name="add">הוספה</string>
+    <string name="clear_done">ניקוי משימות שבוצעו</string>
+    <string name="deleted">המשימה נמחקה</string>
+    <string name="cleared">המשימות שבוצעו נוקו</string>
+    <string name="undo">ביטול</string>
+    <string name="no_tasks_yet">אין משימות עדיין ✨</string>
+    <string name="all_done">הכל בוצע! 🎉</string>
+    <string name="one_left">נשארה משימה אחת</string>
+    <string name="n_left">נשארו %1$d משימות</string>
+    <string name="empty_title">🐣</string>
+    <string name="empty_text">הרשימה ריקה.\nכתבי משימה ולחצי +</string>
+    <string name="swipe_hint">החלקה הצידה מוחקת משימה</string>
+    <string name="widget_title">המשימות שלי 🌸</string>
+    <string name="widget_empty">אין משימות פתוחות 🎉</string>
+    <string name="widget_description">רשימת המשימות שלך ממסך הבית</string>
+</resources>

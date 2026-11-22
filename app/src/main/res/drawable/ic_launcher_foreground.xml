@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- note card -->
+    <path android:fillColor="#FFFFFF" android:pathData="M38,32h32a6,6 0,0 1,6 6v34a6,6 0,0 1,-6 6h-32a6,6 0,0 1,-6 -6v-34a6,6 0,0 1,6 -6z" />
+    <!-- rows -->
+    <path android:fillColor="#F48FB1" android:pathData="M41,45a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0z" />
+    <path android:fillColor="#EDE4FF" android:pathData="M52,43h16a2,2 0,0 1,0 4h-16a2,2 0,0 1,0 -4z" />
+    <path android:fillColor="#00000000" android:strokeColor="#F48FB1" android:strokeWidth="1.8" android:pathData="M44.5,52.5a3.5,3.5 0,1 1,0 7a3.5,3.5 0,1 1,0 -7z" />
+    <path android:fillColor="#DDF5EA" android:pathData="M52,54h14a2,2 0,0 1,0 4h-14a2,2 0,0 1,0 -4z" />
+    <path android:fillColor="#00000000" android:strokeColor="#F48FB1" android:strokeWidth="1.8" android:pathData="M44.5,63.5a3.5,3.5 0,1 1,0 7a3.5,3.5 0,1 1,0 -7z" />
+    <path android:fillColor="#FFF1D6" android:pathData="M52,65h12a2,2 0,0 1,0 4h-12a2,2 0,0 1,0 -4z" />
+    <!-- white tick on first row -->
+    <path android:fillColor="#00000000" android:strokeColor="#FFFFFF" android:strokeWidth="1.4" android:strokeLineCap="round" android:strokeLineJoin="round" android:pathData="M42.8,45.2l1.4,1.4l2.6,-2.8" />
+    <!-- heart -->
+    <path android:fillColor="#E06C97" android:pathData="M72,30c1.6,-3 6,-2.6 6,0.8c0,2.8 -3.4,4.8 -6,7c-2.6,-2.2 -6,-4.2 -6,-7c0,-3.4 4.4,-3.8 6,-0.8z" />
+</vector>
